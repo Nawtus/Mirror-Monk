@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c04c90a22bb124499ad142de3686b3d, type: 3}
+  m_Name: EnemyOrder
+  m_EditorClassIdentifier: 
+  enemyGroup:
+  - fight:
+    - {fileID: 4161270674203628263, guid: f83438934e7daa74ca9ff1405632750d, type: 3}
+  - fight:
+    - {fileID: 4161270674203628263, guid: f83438934e7daa74ca9ff1405632750d, type: 3}
+    - {fileID: 4161270674203628263, guid: f83438934e7daa74ca9ff1405632750d, type: 3}
+  - fight:
+    - {fileID: 8357213445449050506, guid: 27d3f2fcc0f7d8b4fa0d13373a9a9bed, type: 3}
+  - fight:
+    - {fileID: 4161270674203628263, guid: f83438934e7daa74ca9ff1405632750d, type: 3}
+    - {fileID: 4161270674203628263, guid: f83438934e7daa74ca9ff1405632750d, type: 3}
+    - {fileID: 5762014497030570442, guid: 6a3c2a7a014975549b050aa5fc165e7c, type: 3}
+  - fight:
+    - {fileID: 8357213445449050506, guid: 27d3f2fcc0f7d8b4fa0d13373a9a9bed, type: 3}
+    - {fileID: 8357213445449050506, guid: 27d3f2fcc0f7d8b4fa0d13373a9a9bed, type: 3}
+    - {fileID: 8357213445449050506, guid: 27d3f2fcc0f7d8b4fa0d13373a9a9bed, type: 3}
+  - fight:
+    - {fileID: 4161270674203628263, guid: f83438934e7daa74ca9ff1405632750d, type: 3}
+    - {fileID: 4161270674203628263, guid: f83438934e7daa74ca9ff1405632750d, type: 3}
+    - {fileID: 5762014497030570442, guid: 6a3c2a7a014975549b050aa5fc165e7c, type: 3}
+    - {fileID: 8357213445449050506, guid: 27d3f2fcc0f7d8b4fa0d13373a9a9bed, type: 3}
+    - {fileID: 8357213445449050506, guid: 27d3f2fcc0f7d8b4fa0d13373a9a9bed, type: 3}
+  - fight:
+    - {fileID: 4161270674203628263, guid: f83438934e7daa74ca9ff1405632750d, type: 3}
+    - {fileID: 4161270674203628263, guid: f83438934e7daa74ca9ff1405632750d, type: 3}
+    - {fileID: 4161270674203628263, guid: f83438934e7daa74ca9ff1405632750d, type: 3}
+    - {fileID: 8357213445449050506, guid: 27d3f2fcc0f7d8b4fa0d13373a9a9bed, type: 3}
+    - {fileID: 8357213445449050506, guid: 27d3f2fcc0f7d8b4fa0d13373a9a9bed, type: 3}
+  - fight: []
+  - fight: []
+  - fight: []
+  - fight: []
+  - fight: []
+  - fight: []
+  - fight: []
+  - fight: []
+  allEnemies: 0
